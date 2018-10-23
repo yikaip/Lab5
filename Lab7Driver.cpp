@@ -106,6 +106,7 @@ string stringReversal4(string input)
 
 int main()
 {
+	//performing testing
 	cout << "Test" << endl;
 	cout << stringReversal1("") << endl;
 
